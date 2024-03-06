@@ -8,5 +8,4 @@
 - 🔍 Burning desire to become a Data Analyst
 
 ### My passion:
-![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/172px-Python-logo-notext.svg.png)
-![SQL](https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Fsql-database-sql-azure-icon-1955x2048-4pmty46t.png&tbnid=HQcRNLOB6r1UDM&vet=12ahUKEwjFhd3Aw-CEAxU8Q6QEHSzsApQQMygFegQIARBf..i&imgrefurl=https%3A%2F%2Ficonduck.com%2Ficons%2F2637%2Fsql-database-sql-azure&docid=ZqRDyrG_AriXaM&w=1955&h=2048&q=sql%20logo&hl=bg&ved=2ahUKEwjFhd3Aw-CEAxU8Q6QEHSzsApQQMygFegQIARBf)
+GET /badge/:badgeContent
