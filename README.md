@@ -7,5 +7,8 @@
 - 💻 Expanding my Python and SQL skill
 - 🔍 Burning desire to become a Data Analyst
 
-### My passion:
-GET /badge/:badgeContent
+### My Tools:
+<a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
+  </a>
+
