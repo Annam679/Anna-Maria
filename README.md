@@ -7,6 +7,7 @@
 - 💻 Expanding my Python and SQL skill
 - 🔍 Burning desire to become a Data Analyst
 
+<p align="center">
 ### My Tools:
 <p align="center">
 <a href="https://www.python.org/" target="_blank">
