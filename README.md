@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Anna+Maria;I'm+Data+Sicence+student;default:20)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Anna+Maria;I'm+Data+Sicence+student;default:200)](https://git.io/typing-svg)
 
 #<a href="https://giphy.com/hunterboots"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzEwamI5aGxkN2QwbWxiNXJhdDFvdnl1MWdzcW1mNzYwYThncm52eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fkb0aC33vSyuYAwqqQ/giphy.gif" width="7%"></a>
 ## A place where I upload everything I do during my weird development path in Computer Science.
